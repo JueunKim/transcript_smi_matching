@@ -1,0 +1,547 @@
+(lp0
+(S'The One Where It All Began'
+p1
+I2452
+I6206
+tp2
+a(S"You're going out with a guy."
+p3
+I57892
+I59962
+tp4
+a(S'All right, Joey, be nice.'
+p5
+I62812
+I64723
+tp6
+a(S'Wait. Does he eat chalk?'
+p7
+I69092
+I70366
+tp8
+a(S'Okay, everybody relax.'
+p9
+I74892
+I76405
+tp10
+a(S'Relax. This is not even a date.'
+p11
+I76652
+I78449
+tp12
+a(S'Sounds like a date to me.'
+p13
+I83492
+I84971
+tp14
+a(S". . .and I realize I'm totally naked."
+p15
+I90692
+I93684
+tp16
+a(S"I've had that dream."
+p17
+I94132
+I95850
+tp18
+a(S'. . .there.'
+p19
+I100692
+I102125
+tp20
+a(S"That one, I've never had."
+p21
+I106492
+I107811
+tp22
+a(S"They weren't looking at you before?"
+p23
+I115532
+I117363
+tp24
+a(S"And it turns out it's my mother."
+p25
+I122772
+I125332
+tp26
+a(S'You okay, sweetie?'
+p27
+I143292
+I144281
+tp28
+a(S'Carol moved out today.'
+p29
+I154772
+I156171
+tp30
+a(S'Just leave my aura alone, okay?'
+p31
+I168172
+I170447
+tp32
+a(S'Fine. Be murky.'
+p33
+I170692
+I172922
+tp34
+a(S"No, you don't."
+p35
+I176492
+I177447
+tp36
+a(S'To hell with her. She left me!'
+p37
+I177692
+I179728
+tp38
+a(S'And you never knew she was a lesbian.'
+p39
+I180772
+I183127
+tp40
+a(S'Sometimes I wish I was a lesbian.'
+p41
+I197372
+I199932
+tp42
+a(S'Did I say that out loud?'
+p43
+I201772
+I203728
+tp44
+a(S". . . ''I'll never have grandchildren! ''"
+p45
+I214212
+I216442
+tp46
+a(S'Was, what? A wrong number?'
+p47
+I216692
+I218728
+tp48
+a(S'Sorry.'
+p49
+I219412
+I220731
+tp50
+a(S"You're angry. You're hurting."
+p51
+I224412
+I226721
+tp52
+a(S'Strip joints!'
+p53
+I229412
+I230606
+tp54
+a(S'I just want to be married again.'
+p55
+I238532
+I241330
+tp56
+a(S'And I just want a million dollars!'
+p57
+I245852
+I247843
+tp58
+a(S'Rachel?'
+p59
+I252932
+I253921
+tp60
+a(S'. . .that you might be here and you are.'
+p61
+I259932
+I262207
+tp62
+a(S'Sure!'
+p63
+I275412
+I276322
+tp64
+a(S'I realized. . .'
+p65
+I307732
+I309848
+tp66
+a(S"Who wasn't asked to the wedding."
+p67
+I340132
+I341770
+tp68
+a(S"''Tuna or egg salad?''"
+p69
+I366412
+I367481
+tp70
+a(S"''Decide! ''"
+p71
+I367732
+I368847
+tp72
+a(S"I'm sorry."
+p73
+I378692
+I380171
+tp74
+a(S"I just don't love him."
+p75
+I380412
+I382926
+tp76
+a(S'Well, it matters to me!'
+p77
+I383612
+I385682
+tp78
+a(S'I say push her down the stairs!'
+p79
+I398772
+I400763
+tp80
+a(S'Come on, Daddy, listen!'
+p81
+I407692
+I409444
+tp82
+a(S'What if I want to be a purse?'
+p83
+I420812
+I424248
+tp84
+a(S"Or a hat?''"
+p85
+I424452
+I425726
+tp86
+a(S"It's a metaphor, Daddy!"
+p87
+I429292
+I431328
+tp88
+a(S"You can see where he'd have trouble."
+p89
+I433012
+I435321
+tp90
+a(S"Look, Daddy, it's my life."
+p91
+I437932
+I439763
+tp92
+a(S"Well, maybe that's my decision."
+p93
+I450292
+I452522
+tp94
+a(S"Well, maybe I don't need your money."
+p95
+I453612
+I455728
+tp96
+a(S'Wait! Wait! I said maybe!'
+p97
+I455932
+I457729
+tp98
+a(S'I helped.'
+p99
+I487612
+I489125
+tp100
+a(S"The whole ''hat'' thing."
+p101
+I497092
+I498650
+tp102
+a(S'I got it.'
+p103
+I516212
+I517327
+tp104
+a(S"It's Paul."
+p105
+I522172
+I523730
+tp106
+a(S'Maybe.'
+p107
+I530132
+I530928
+tp108
+a(S'He finally asked you out?'
+p109
+I534532
+I536409
+tp110
+a(S"The One Where It All BeganYou're going out with a guy."
+p111
+I2452
+I59962
+tp112
+a(S"You're going out with a guy.All right, Joey, be nice."
+p113
+I57892
+I64723
+tp114
+a(S'All right, Joey, be nice.Wait. Does he eat chalk?'
+p115
+I62812
+I70366
+tp116
+a(S'Wait. Does he eat chalk?Okay, everybody relax.'
+p117
+I69092
+I76405
+tp118
+a(S'Okay, everybody relax.Relax. This is not even a date.'
+p119
+I74892
+I78449
+tp120
+a(S'Relax. This is not even a date.Sounds like a date to me.'
+p121
+I76652
+I84971
+tp122
+a(S"Sounds like a date to me.. . .and I realize I'm totally naked."
+p123
+I83492
+I93684
+tp124
+a(S". . .and I realize I'm totally naked.I've had that dream."
+p125
+I90692
+I95850
+tp126
+a(S"I've had that dream.. . .there."
+p127
+I94132
+I102125
+tp128
+a(S". . .there.That one, I've never had."
+p129
+I100692
+I107811
+tp130
+a(S"That one, I've never had.They weren't looking at you before?"
+p131
+I106492
+I117363
+tp132
+a(S"They weren't looking at you before?And it turns out it's my mother."
+p133
+I115532
+I125332
+tp134
+a(S"And it turns out it's my mother.You okay, sweetie?"
+p135
+I122772
+I144281
+tp136
+a(S'You okay, sweetie?Carol moved out today.'
+p137
+I143292
+I156171
+tp138
+a(S'Carol moved out today.Just leave my aura alone, okay?'
+p139
+I154772
+I170447
+tp140
+a(S'Just leave my aura alone, okay?Fine. Be murky.'
+p141
+I168172
+I172922
+tp142
+a(S"Fine. Be murky.No, you don't."
+p143
+I170692
+I177447
+tp144
+a(S"No, you don't.To hell with her. She left me!"
+p145
+I176492
+I179728
+tp146
+a(S'To hell with her. She left me!And you never knew she was a lesbian.'
+p147
+I177692
+I183127
+tp148
+a(S'And you never knew she was a lesbian.Sometimes I wish I was a lesbian.'
+p149
+I180772
+I199932
+tp150
+a(S'Sometimes I wish I was a lesbian.Did I say that out loud?'
+p151
+I197372
+I203728
+tp152
+a(S"Did I say that out loud?. . . ''I'll never have grandchildren! ''"
+p153
+I201772
+I216442
+tp154
+a(S". . . ''I'll never have grandchildren! ''Was, what? A wrong number?"
+p155
+I214212
+I218728
+tp156
+a(S'Was, what? A wrong number?Sorry.'
+p157
+I216692
+I220731
+tp158
+a(S"Sorry.You're angry. You're hurting."
+p159
+I219412
+I226721
+tp160
+a(S"You're angry. You're hurting.Strip joints!"
+p161
+I224412
+I230606
+tp162
+a(S'Strip joints!I just want to be married again.'
+p163
+I229412
+I241330
+tp164
+a(S'I just want to be married again.And I just want a million dollars!'
+p165
+I238532
+I247843
+tp166
+a(S'And I just want a million dollars!Rachel?'
+p167
+I245852
+I253921
+tp168
+a(S'Rachel?. . .that you might be here and you are.'
+p169
+I252932
+I262207
+tp170
+a(S'. . .that you might be here and you are.Sure!'
+p171
+I259932
+I276322
+tp172
+a(S'Sure!I realized. . .'
+p173
+I275412
+I309848
+tp174
+a(S"I realized. . .Who wasn't asked to the wedding."
+p175
+I307732
+I341770
+tp176
+a(S"Who wasn't asked to the wedding.''Tuna or egg salad?''"
+p177
+I340132
+I367481
+tp178
+a(S"''Tuna or egg salad?''''Decide! ''"
+p179
+I366412
+I368847
+tp180
+a(S"''Decide! ''I'm sorry."
+p181
+I367732
+I380171
+tp182
+a(S"I'm sorry.I just don't love him."
+p183
+I378692
+I382926
+tp184
+a(S"I just don't love him.Well, it matters to me!"
+p185
+I380412
+I385682
+tp186
+a(S'Well, it matters to me!I say push her down the stairs!'
+p187
+I383612
+I400763
+tp188
+a(S'I say push her down the stairs!Come on, Daddy, listen!'
+p189
+I398772
+I409444
+tp190
+a(S'Come on, Daddy, listen!What if I want to be a purse?'
+p191
+I407692
+I424248
+tp192
+a(S"What if I want to be a purse?Or a hat?''"
+p193
+I420812
+I425726
+tp194
+a(S"Or a hat?''It's a metaphor, Daddy!"
+p195
+I424452
+I431328
+tp196
+a(S"It's a metaphor, Daddy!You can see where he'd have trouble."
+p197
+I429292
+I435321
+tp198
+a(S"You can see where he'd have trouble.Look, Daddy, it's my life."
+p199
+I433012
+I439763
+tp200
+a(S"Look, Daddy, it's my life.Well, maybe that's my decision."
+p201
+I437932
+I452522
+tp202
+a(S"Well, maybe that's my decision.Well, maybe I don't need your money."
+p203
+I450292
+I455728
+tp204
+a(S"Well, maybe I don't need your money.Wait! Wait! I said maybe!"
+p205
+I453612
+I457729
+tp206
+a(S'Wait! Wait! I said maybe!I helped.'
+p207
+I455932
+I489125
+tp208
+a(S"I helped.The whole ''hat'' thing."
+p209
+I487612
+I498650
+tp210
+a(S"The whole ''hat'' thing.I got it."
+p211
+I497092
+I517327
+tp212
+a(S"I got it.It's Paul."
+p213
+I516212
+I523730
+tp214
+a(S"It's Paul.Maybe."
+p215
+I522172
+I530928
+tp216
+a(S'Maybe.He finally asked you out?'
+p217
+I530132
+I536409
+tp218
+a.

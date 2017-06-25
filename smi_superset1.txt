@@ -1,0 +1,1377 @@
+(lp0
+(S'The One Where It All Began'
+p1
+I2452
+I6206
+tp2
+a(S'English Subtitles by GELULA & CO., INC.'
+p3
+I7492
+I8481
+tp4
+a(S"There's nothing to tell. It's just some guy I work with."
+p5
+I54012
+I57641
+tp6
+a(S"You're going out with a guy."
+p7
+I57892
+I59962
+tp8
+a(S"There's gotta be something wrong with him."
+p9
+I60212
+I62521
+tp10
+a(S'All right, Joey, be nice.'
+p11
+I62812
+I64723
+tp12
+a(S'So does he have a hump and a hair piece?'
+p13
+I64972
+I67532
+tp14
+a(S'Wait. Does he eat chalk?'
+p15
+I69092
+I70366
+tp16
+a(S"I don't want her to go through what I did with Carl."
+p17
+I71572
+I74644
+tp18
+a(S'Okay, everybody relax.'
+p19
+I74892
+I76405
+tp20
+a(S'Relax. This is not even a date.'
+p21
+I76652
+I78449
+tp22
+a(S"It's just two people going out to dinner and not having sex."
+p23
+I78692
+I82480
+tp24
+a(S'Sounds like a date to me.'
+p25
+I83492
+I84971
+tp26
+a(S"I'm in high school, in the middle of the cafeteria. . ."
+p27
+I87812
+I90451
+tp28
+a(S". . .and I realize I'm totally naked."
+p29
+I90692
+I93684
+tp30
+a(S"I've had that dream."
+p31
+I94132
+I95850
+tp32
+a(S'Then I look down and I realize there is a phone. . .'
+p33
+I96092
+I99721
+tp34
+a(S'. . .there.'
+p35
+I100692
+I102125
+tp36
+a(S'-Instead of--'
+p37
+I104412
+I106004
+tp38
+a(S"That's right!"
+p39
+I104412
+I106004
+tp40
+a(S"That one, I've never had."
+p41
+I106492
+I107811
+tp42
+a(S'All of a sudden, the phone starts to ring.'
+p43
+I108052
+I112204
+tp44
+a(S"I don't know what to do. Everybody's looking at me."
+p45
+I112412
+I115290
+tp46
+a(S"They weren't looking at you before?"
+p47
+I115532
+I117363
+tp48
+a(S"Finally, I figure I'd better answer it."
+p49
+I118892
+I121725
+tp50
+a(S"And it turns out it's my mother."
+p51
+I122772
+I125332
+tp52
+a(S'Which is very, very weird because she never calls me.'
+p53
+I126572
+I130326
+tp54
+a(S"This guy says, ''Hello,'' I wanna kill myself."
+p55
+I139812
+I142531
+tp56
+a(S'You okay, sweetie?'
+p57
+I143292
+I144281
+tp58
+a(S'I feel like someone grabbed my small intestine, pulled it out of my mouth. . .'
+p59
+I145332
+I149803
+tp60
+a(S'-. . .and tied it around my neck.'
+p61
+I150052
+I152725
+tp62
+a(S'Cookie?'
+p63
+I150052
+I152725
+tp64
+a(S'Carol moved out today.'
+p65
+I154772
+I156171
+tp66
+a(S'-Let me get you some coffee.'
+p67
+I157212
+I159328
+tp68
+a(S'Thanks.'
+p69
+I157212
+I159328
+tp70
+a(S"No, don't! Stop cleansing my aura."
+p71
+I163692
+I167526
+tp72
+a(S'Just leave my aura alone, okay?'
+p73
+I168172
+I170447
+tp74
+a(S'Fine. Be murky.'
+p75
+I170692
+I172922
+tp76
+a(S"I'll be fine. I hope she'll be very happy."
+p77
+I173212
+I176284
+tp78
+a(S"No, you don't."
+p79
+I176492
+I177447
+tp80
+a(S'To hell with her. She left me!'
+p81
+I177692
+I179728
+tp82
+a(S'And you never knew she was a lesbian.'
+p83
+I180772
+I183127
+tp84
+a(S'Why does everyone keep fixating on that?'
+p85
+I188812
+I191451
+tp86
+a(S"She didn't know. How should I know?"
+p87
+I193012
+I195526
+tp88
+a(S'Sometimes I wish I was a lesbian.'
+p89
+I197372
+I199932
+tp90
+a(S'Did I say that out loud?'
+p91
+I201772
+I203728
+tp92
+a(S'I told Mom and Dad last night. They seemed to take it well.'
+p93
+I206212
+I209522
+tp94
+a(S'Really? So that hysterical call I got from a woman sobbing at 3 a.m. . .'
+p95
+I209772
+I213970
+tp96
+a(S". . . ''I'll never have grandchildren! ''"
+p97
+I214212
+I216442
+tp98
+a(S'Was, what? A wrong number?'
+p99
+I216692
+I218728
+tp100
+a(S'Sorry.'
+p101
+I219412
+I220731
+tp102
+a(S"Look, you're feeling a lot of pain right now."
+p103
+I221252
+I224164
+tp104
+a(S"You're angry. You're hurting."
+p105
+I224412
+I226721
+tp106
+a(S'Can I tell you what the answer is?'
+p107
+I226972
+I229122
+tp108
+a(S'Strip joints!'
+p109
+I229412
+I230606
+tp110
+a(S"Come on, you're single. Have some hormones."
+p111
+I232612
+I235922
+tp112
+a(S"See, but I don't want to be single, okay?"
+p113
+I236172
+I238322
+tp114
+a(S'I just want to be married again.'
+p115
+I238532
+I241330
+tp116
+a(S'And I just want a million dollars!'
+p117
+I245852
+I247843
+tp118
+a(S'Rachel?'
+p119
+I252932
+I253921
+tp120
+a(S'Oh, God, Monica! Hi! Thank God!'
+p121
+I254172
+I256561
+tp122
+a(S'I went to your building and this guy with a hammer said. . .'
+p123
+I256812
+I259724
+tp124
+a(S'. . .that you might be here and you are.'
+p125
+I259932
+I262207
+tp126
+a(S'-Can I get you some coffee?'
+p127
+I262452
+I265524
+tp128
+a(S'Decaf.'
+p129
+I262452
+I265524
+tp130
+a(S'Everybody, this is Rachel, another Lincoln High survivor.'
+p131
+I266532
+I269968
+tp132
+a(S'This is everybody. Chandler and Phoebe. . .'
+p133
+I270172
+I272732
+tp134
+a(S'. . .and Joey. And remember my brother, Ross?'
+p135
+I272972
+I275167
+tp136
+a(S'Sure!'
+p137
+I275412
+I276322
+tp138
+a(S'You want to tell us now, or are we waiting for four wet bridesmaids?'
+p139
+I286012
+I290130
+tp140
+a(S'Oh, God! Well, it started about a half-hour before the wedding.'
+p141
+I291532
+I296128
+tp142
+a(S'I was in this room with all the presents. . .'
+p143
+I296372
+I298840
+tp144
+a(S'. . .and I was looking at this gravy boat.'
+p145
+I299092
+I301128
+tp146
+a(S'This really gorgeous Limoges gravy boat.'
+p147
+I301332
+I304722
+tp148
+a(S"When all of a sudden I realize-- Sweet 'N Low?"
+p149
+I304932
+I307321
+tp150
+a(S'I realized. . .'
+p151
+I307732
+I309848
+tp152
+a(S'. . .I was more turned on by this gravy boat than by Barry.'
+p153
+I310092
+I313687
+tp154
+a(S'And then I really freaked out, when it hit me:'
+p155
+I313892
+I316565
+tp156
+a(S'How much Barry looks like Mr. Potato Head.'
+p157
+I316812
+I319326
+tp158
+a(S'I always knew he looked familiar, but. . . .'
+p159
+I320172
+I322925
+tp160
+a(S'I had to get out of there, and I started wondering. . .'
+p161
+I325692
+I328923
+tp162
+a(S". . . ''Why am I doing this?'' and ''Who am I doing this for?''"
+p163
+I329132
+I332602
+tp164
+a(S"I didn't know where to go, and I know you and I have drifted apart. . ."
+p165
+I332852
+I337050
+tp166
+a(S". . .but you're the only person I know in the city."
+p167
+I337292
+I339931
+tp168
+a(S"Who wasn't asked to the wedding."
+p169
+I340132
+I341770
+tp170
+a(S"I was kind of hoping that wouldn't be an issue."
+p171
+I342092
+I344925
+tp172
+a(S'I guess he bought her the pipe organ. . .'
+p173
+I360172
+I362242
+tp174
+a(S". . .and she's really not happy about it."
+p175
+I362492
+I364926
+tp176
+a(S"''Tuna or egg salad?''"
+p177
+I366412
+I367481
+tp178
+a(S"''Decide! ''"
+p179
+I367732
+I368847
+tp180
+a(S"''I'll have whatever Christine is having. ''"
+p181
+I370492
+I373723
+tp182
+a(S"Daddy, I just-- I can't marry him."
+p183
+I375132
+I378169
+tp184
+a(S"I'm sorry."
+p185
+I378692
+I380171
+tp186
+a(S"I just don't love him."
+p187
+I380412
+I382926
+tp188
+a(S'Well, it matters to me!'
+p189
+I383612
+I385682
+tp190
+a(S"''If I let go of my hair, my head will fall off. ''"
+p191
+I389252
+I393325
+tp192
+a(S'She should not be wearing those pants.'
+p193
+I394772
+I397445
+tp194
+a(S'I say push her down the stairs!'
+p195
+I398772
+I400763
+tp196
+a(S'Push her down the stairs! Push her down the stairs!'
+p197
+I401012
+I403606
+tp198
+a(S'Come on, Daddy, listen!'
+p199
+I407692
+I409444
+tp200
+a(S"All my life, everyone's always told me, ''You're a shoe! ''"
+p201
+I410892
+I414487
+tp202
+a(S"''You're a shoe! You're a shoe! You're a shoe! ''"
+p203
+I415132
+I417407
+tp204
+a(S"I stopped and said, ''What if I don't wanna be a shoe?"
+p205
+I417652
+I420564
+tp206
+a(S'What if I want to be a purse?'
+p207
+I420812
+I424248
+tp208
+a(S"Or a hat?''"
+p209
+I424452
+I425726
+tp210
+a(S"I don't want you to buy me a hat, I--"
+p211
+I426732
+I429041
+tp212
+a(S"It's a metaphor, Daddy!"
+p213
+I429292
+I431328
+tp214
+a(S"You can see where he'd have trouble."
+p215
+I433012
+I435321
+tp216
+a(S"Look, Daddy, it's my life."
+p217
+I437932
+I439763
+tp218
+a(S"Well, maybe I'll just stay here with Monica."
+p219
+I441412
+I444324
+tp220
+a(S"I guess we've established she's staying with Monica."
+p221
+I446372
+I449330
+tp222
+a(S"Well, maybe that's my decision."
+p223
+I450292
+I452522
+tp224
+a(S"Well, maybe I don't need your money."
+p225
+I453612
+I455728
+tp226
+a(S'Wait! Wait! I said maybe!'
+p227
+I455932
+I457729
+tp228
+a(S"Just breathe. Breathe, that's it."
+p229
+I465892
+I468565
+tp230
+a(S'Just try to think of nice, calm things.'
+p231
+I468812
+I471121
+tp232
+a(S'Raindrops on roses And whiskers on kittens'
+p233
+I471572
+I475042
+tp234
+a(S'Doorbells and sleigh bells And something with mittens'
+p235
+I475292
+I479205
+tp236
+a(S'La la la something And noodles with string'
+p237
+I479972
+I483362
+tp238
+a(S'-These are a--'
+p239
+I483612
+I485728
+tp240
+a(S"I'm all better now."
+p241
+I483612
+I485728
+tp242
+a(S'I helped.'
+p243
+I487612
+I489125
+tp244
+a(S'This is probably for the best, you know?'
+p245
+I491172
+I493447
+tp246
+a(S'Independence. Taking control of your life.'
+p247
+I494292
+I496852
+tp248
+a(S"The whole ''hat'' thing."
+p249
+I497092
+I498650
+tp250
+a(S'If you need anything, you can always come to Joey.'
+p251
+I498892
+I503044
+tp252
+a(S"Me and Chandler live across the hall. And he's away a lot."
+p253
+I503292
+I506443
+tp254
+a(S"Joey, stop hitting on her! It's her wedding day."
+p255
+I508292
+I510726
+tp256
+a(S"What? Like there's a rule or something?"
+p257
+I510972
+I513532
+tp258
+a(S'I got it.'
+p259
+I516212
+I517327
+tp260
+a(S"Please don't do that again. It's a horrible sound."
+p261
+I518692
+I521923
+tp262
+a(S"It's Paul."
+p263
+I522172
+I523730
+tp264
+a(S'Oh, God. Is it 6:30? Buzz him in.'
+p265
+I523972
+I527248
+tp266
+a(S"-Who's Paul?"
+p267
+I527492
+I529926
+tp268
+a(S'Paul, the wine guy?'
+p269
+I527492
+I529926
+tp270
+a(S'Maybe.'
+p271
+I530132
+I530928
+tp272
+a(S"Your ''not a real date,'' is with Paul, the wine guy?"
+p273
+I531172
+I534289
+tp274
+a(S'He finally asked you out?'
+p275
+I534532
+I536409
+tp276
+a(S'The One Where It All BeganEnglish Subtitles by GELULA & CO., INC.'
+p277
+I2452
+I8481
+tp278
+a(S"English Subtitles by GELULA & CO., INC.There's nothing to tell. It's just some guy I work with."
+p279
+I7492
+I57641
+tp280
+a(S"There's nothing to tell. It's just some guy I work with.You're going out with a guy."
+p281
+I54012
+I59962
+tp282
+a(S"You're going out with a guy.There's gotta be something wrong with him."
+p283
+I57892
+I62521
+tp284
+a(S"There's gotta be something wrong with him.All right, Joey, be nice."
+p285
+I60212
+I64723
+tp286
+a(S'All right, Joey, be nice.So does he have a hump and a hair piece?'
+p287
+I62812
+I67532
+tp288
+a(S'So does he have a hump and a hair piece?Wait. Does he eat chalk?'
+p289
+I64972
+I70366
+tp290
+a(S"Wait. Does he eat chalk?I don't want her to go through what I did with Carl."
+p291
+I69092
+I74644
+tp292
+a(S"I don't want her to go through what I did with Carl.Okay, everybody relax."
+p293
+I71572
+I76405
+tp294
+a(S'Okay, everybody relax.Relax. This is not even a date.'
+p295
+I74892
+I78449
+tp296
+a(S"Relax. This is not even a date.It's just two people going out to dinner and not having sex."
+p297
+I76652
+I82480
+tp298
+a(S"It's just two people going out to dinner and not having sex.Sounds like a date to me."
+p299
+I78692
+I84971
+tp300
+a(S"Sounds like a date to me.I'm in high school, in the middle of the cafeteria. . ."
+p301
+I83492
+I90451
+tp302
+a(S"I'm in high school, in the middle of the cafeteria. . .. . .and I realize I'm totally naked."
+p303
+I87812
+I93684
+tp304
+a(S". . .and I realize I'm totally naked.I've had that dream."
+p305
+I90692
+I95850
+tp306
+a(S"I've had that dream.Then I look down and I realize there is a phone. . ."
+p307
+I94132
+I99721
+tp308
+a(S'Then I look down and I realize there is a phone. . .. . .there.'
+p309
+I96092
+I102125
+tp310
+a(S'. . .there.-Instead of--'
+p311
+I100692
+I106004
+tp312
+a(S"-Instead of--That's right!"
+p313
+I104412
+I106004
+tp314
+a(S"That's right!That one, I've never had."
+p315
+I104412
+I107811
+tp316
+a(S"That one, I've never had.All of a sudden, the phone starts to ring."
+p317
+I106492
+I112204
+tp318
+a(S"All of a sudden, the phone starts to ring.I don't know what to do. Everybody's looking at me."
+p319
+I108052
+I115290
+tp320
+a(S"I don't know what to do. Everybody's looking at me.They weren't looking at you before?"
+p321
+I112412
+I117363
+tp322
+a(S"They weren't looking at you before?Finally, I figure I'd better answer it."
+p323
+I115532
+I121725
+tp324
+a(S"Finally, I figure I'd better answer it.And it turns out it's my mother."
+p325
+I118892
+I125332
+tp326
+a(S"And it turns out it's my mother.Which is very, very weird because she never calls me."
+p327
+I122772
+I130326
+tp328
+a(S"Which is very, very weird because she never calls me.This guy says, ''Hello,'' I wanna kill myself."
+p329
+I126572
+I142531
+tp330
+a(S"This guy says, ''Hello,'' I wanna kill myself.You okay, sweetie?"
+p331
+I139812
+I144281
+tp332
+a(S'You okay, sweetie?I feel like someone grabbed my small intestine, pulled it out of my mouth. . .'
+p333
+I143292
+I149803
+tp334
+a(S'I feel like someone grabbed my small intestine, pulled it out of my mouth. . .-. . .and tied it around my neck.'
+p335
+I145332
+I152725
+tp336
+a(S'-. . .and tied it around my neck.Cookie?'
+p337
+I150052
+I152725
+tp338
+a(S'Cookie?Carol moved out today.'
+p339
+I150052
+I156171
+tp340
+a(S'Carol moved out today.-Let me get you some coffee.'
+p341
+I154772
+I159328
+tp342
+a(S'-Let me get you some coffee.Thanks.'
+p343
+I157212
+I159328
+tp344
+a(S"Thanks.No, don't! Stop cleansing my aura."
+p345
+I157212
+I167526
+tp346
+a(S"No, don't! Stop cleansing my aura.Just leave my aura alone, okay?"
+p347
+I163692
+I170447
+tp348
+a(S'Just leave my aura alone, okay?Fine. Be murky.'
+p349
+I168172
+I172922
+tp350
+a(S"Fine. Be murky.I'll be fine. I hope she'll be very happy."
+p351
+I170692
+I176284
+tp352
+a(S"I'll be fine. I hope she'll be very happy.No, you don't."
+p353
+I173212
+I177447
+tp354
+a(S"No, you don't.To hell with her. She left me!"
+p355
+I176492
+I179728
+tp356
+a(S'To hell with her. She left me!And you never knew she was a lesbian.'
+p357
+I177692
+I183127
+tp358
+a(S'And you never knew she was a lesbian.Why does everyone keep fixating on that?'
+p359
+I180772
+I191451
+tp360
+a(S"Why does everyone keep fixating on that?She didn't know. How should I know?"
+p361
+I188812
+I195526
+tp362
+a(S"She didn't know. How should I know?Sometimes I wish I was a lesbian."
+p363
+I193012
+I199932
+tp364
+a(S'Sometimes I wish I was a lesbian.Did I say that out loud?'
+p365
+I197372
+I203728
+tp366
+a(S'Did I say that out loud?I told Mom and Dad last night. They seemed to take it well.'
+p367
+I201772
+I209522
+tp368
+a(S'I told Mom and Dad last night. They seemed to take it well.Really? So that hysterical call I got from a woman sobbing at 3 a.m. . .'
+p369
+I206212
+I213970
+tp370
+a(S"Really? So that hysterical call I got from a woman sobbing at 3 a.m. . .. . . ''I'll never have grandchildren! ''"
+p371
+I209772
+I216442
+tp372
+a(S". . . ''I'll never have grandchildren! ''Was, what? A wrong number?"
+p373
+I214212
+I218728
+tp374
+a(S'Was, what? A wrong number?Sorry.'
+p375
+I216692
+I220731
+tp376
+a(S"Sorry.Look, you're feeling a lot of pain right now."
+p377
+I219412
+I224164
+tp378
+a(S"Look, you're feeling a lot of pain right now.You're angry. You're hurting."
+p379
+I221252
+I226721
+tp380
+a(S"You're angry. You're hurting.Can I tell you what the answer is?"
+p381
+I224412
+I229122
+tp382
+a(S'Can I tell you what the answer is?Strip joints!'
+p383
+I226972
+I230606
+tp384
+a(S"Strip joints!Come on, you're single. Have some hormones."
+p385
+I229412
+I235922
+tp386
+a(S"Come on, you're single. Have some hormones.See, but I don't want to be single, okay?"
+p387
+I232612
+I238322
+tp388
+a(S"See, but I don't want to be single, okay?I just want to be married again."
+p389
+I236172
+I241330
+tp390
+a(S'I just want to be married again.And I just want a million dollars!'
+p391
+I238532
+I247843
+tp392
+a(S'And I just want a million dollars!Rachel?'
+p393
+I245852
+I253921
+tp394
+a(S'Rachel?Oh, God, Monica! Hi! Thank God!'
+p395
+I252932
+I256561
+tp396
+a(S'Oh, God, Monica! Hi! Thank God!I went to your building and this guy with a hammer said. . .'
+p397
+I254172
+I259724
+tp398
+a(S'I went to your building and this guy with a hammer said. . .. . .that you might be here and you are.'
+p399
+I256812
+I262207
+tp400
+a(S'. . .that you might be here and you are.-Can I get you some coffee?'
+p401
+I259932
+I265524
+tp402
+a(S'-Can I get you some coffee?Decaf.'
+p403
+I262452
+I265524
+tp404
+a(S'Decaf.Everybody, this is Rachel, another Lincoln High survivor.'
+p405
+I262452
+I269968
+tp406
+a(S'Everybody, this is Rachel, another Lincoln High survivor.This is everybody. Chandler and Phoebe. . .'
+p407
+I266532
+I272732
+tp408
+a(S'This is everybody. Chandler and Phoebe. . .. . .and Joey. And remember my brother, Ross?'
+p409
+I270172
+I275167
+tp410
+a(S'. . .and Joey. And remember my brother, Ross?Sure!'
+p411
+I272972
+I276322
+tp412
+a(S'Sure!You want to tell us now, or are we waiting for four wet bridesmaids?'
+p413
+I275412
+I290130
+tp414
+a(S'You want to tell us now, or are we waiting for four wet bridesmaids?Oh, God! Well, it started about a half-hour before the wedding.'
+p415
+I286012
+I296128
+tp416
+a(S'Oh, God! Well, it started about a half-hour before the wedding.I was in this room with all the presents. . .'
+p417
+I291532
+I298840
+tp418
+a(S'I was in this room with all the presents. . .. . .and I was looking at this gravy boat.'
+p419
+I296372
+I301128
+tp420
+a(S'. . .and I was looking at this gravy boat.This really gorgeous Limoges gravy boat.'
+p421
+I299092
+I304722
+tp422
+a(S"This really gorgeous Limoges gravy boat.When all of a sudden I realize-- Sweet 'N Low?"
+p423
+I301332
+I307321
+tp424
+a(S"When all of a sudden I realize-- Sweet 'N Low?I realized. . ."
+p425
+I304932
+I309848
+tp426
+a(S'I realized. . .. . .I was more turned on by this gravy boat than by Barry.'
+p427
+I307732
+I313687
+tp428
+a(S'. . .I was more turned on by this gravy boat than by Barry.And then I really freaked out, when it hit me:'
+p429
+I310092
+I316565
+tp430
+a(S'And then I really freaked out, when it hit me:How much Barry looks like Mr. Potato Head.'
+p431
+I313892
+I319326
+tp432
+a(S'How much Barry looks like Mr. Potato Head.I always knew he looked familiar, but. . . .'
+p433
+I316812
+I322925
+tp434
+a(S'I always knew he looked familiar, but. . . .I had to get out of there, and I started wondering. . .'
+p435
+I320172
+I328923
+tp436
+a(S"I had to get out of there, and I started wondering. . .. . . ''Why am I doing this?'' and ''Who am I doing this for?''"
+p437
+I325692
+I332602
+tp438
+a(S". . . ''Why am I doing this?'' and ''Who am I doing this for?''I didn't know where to go, and I know you and I have drifted apart. . ."
+p439
+I329132
+I337050
+tp440
+a(S"I didn't know where to go, and I know you and I have drifted apart. . .. . .but you're the only person I know in the city."
+p441
+I332852
+I339931
+tp442
+a(S". . .but you're the only person I know in the city.Who wasn't asked to the wedding."
+p443
+I337292
+I341770
+tp444
+a(S"Who wasn't asked to the wedding.I was kind of hoping that wouldn't be an issue."
+p445
+I340132
+I344925
+tp446
+a(S"I was kind of hoping that wouldn't be an issue.I guess he bought her the pipe organ. . ."
+p447
+I342092
+I362242
+tp448
+a(S"I guess he bought her the pipe organ. . .. . .and she's really not happy about it."
+p449
+I360172
+I364926
+tp450
+a(S". . .and she's really not happy about it.''Tuna or egg salad?''"
+p451
+I362492
+I367481
+tp452
+a(S"''Tuna or egg salad?''''Decide! ''"
+p453
+I366412
+I368847
+tp454
+a(S"''Decide! ''''I'll have whatever Christine is having. ''"
+p455
+I367732
+I373723
+tp456
+a(S"''I'll have whatever Christine is having. ''Daddy, I just-- I can't marry him."
+p457
+I370492
+I378169
+tp458
+a(S"Daddy, I just-- I can't marry him.I'm sorry."
+p459
+I375132
+I380171
+tp460
+a(S"I'm sorry.I just don't love him."
+p461
+I378692
+I382926
+tp462
+a(S"I just don't love him.Well, it matters to me!"
+p463
+I380412
+I385682
+tp464
+a(S"Well, it matters to me!''If I let go of my hair, my head will fall off. ''"
+p465
+I383612
+I393325
+tp466
+a(S"''If I let go of my hair, my head will fall off. ''She should not be wearing those pants."
+p467
+I389252
+I397445
+tp468
+a(S'She should not be wearing those pants.I say push her down the stairs!'
+p469
+I394772
+I400763
+tp470
+a(S'I say push her down the stairs!Push her down the stairs! Push her down the stairs!'
+p471
+I398772
+I403606
+tp472
+a(S'Push her down the stairs! Push her down the stairs!Come on, Daddy, listen!'
+p473
+I401012
+I409444
+tp474
+a(S"Come on, Daddy, listen!All my life, everyone's always told me, ''You're a shoe! ''"
+p475
+I407692
+I414487
+tp476
+a(S"All my life, everyone's always told me, ''You're a shoe! ''''You're a shoe! You're a shoe! You're a shoe! ''"
+p477
+I410892
+I417407
+tp478
+a(S"''You're a shoe! You're a shoe! You're a shoe! ''I stopped and said, ''What if I don't wanna be a shoe?"
+p479
+I415132
+I420564
+tp480
+a(S"I stopped and said, ''What if I don't wanna be a shoe?What if I want to be a purse?"
+p481
+I417652
+I424248
+tp482
+a(S"What if I want to be a purse?Or a hat?''"
+p483
+I420812
+I425726
+tp484
+a(S"Or a hat?''I don't want you to buy me a hat, I--"
+p485
+I424452
+I429041
+tp486
+a(S"I don't want you to buy me a hat, I--It's a metaphor, Daddy!"
+p487
+I426732
+I431328
+tp488
+a(S"It's a metaphor, Daddy!You can see where he'd have trouble."
+p489
+I429292
+I435321
+tp490
+a(S"You can see where he'd have trouble.Look, Daddy, it's my life."
+p491
+I433012
+I439763
+tp492
+a(S"Look, Daddy, it's my life.Well, maybe I'll just stay here with Monica."
+p493
+I437932
+I444324
+tp494
+a(S"Well, maybe I'll just stay here with Monica.I guess we've established she's staying with Monica."
+p495
+I441412
+I449330
+tp496
+a(S"I guess we've established she's staying with Monica.Well, maybe that's my decision."
+p497
+I446372
+I452522
+tp498
+a(S"Well, maybe that's my decision.Well, maybe I don't need your money."
+p499
+I450292
+I455728
+tp500
+a(S"Well, maybe I don't need your money.Wait! Wait! I said maybe!"
+p501
+I453612
+I457729
+tp502
+a(S"Wait! Wait! I said maybe!Just breathe. Breathe, that's it."
+p503
+I455932
+I468565
+tp504
+a(S"Just breathe. Breathe, that's it.Just try to think of nice, calm things."
+p505
+I465892
+I471121
+tp506
+a(S'Just try to think of nice, calm things.Raindrops on roses And whiskers on kittens'
+p507
+I468812
+I475042
+tp508
+a(S'Raindrops on roses And whiskers on kittensDoorbells and sleigh bells And something with mittens'
+p509
+I471572
+I479205
+tp510
+a(S'Doorbells and sleigh bells And something with mittensLa la la something And noodles with string'
+p511
+I475292
+I483362
+tp512
+a(S'La la la something And noodles with string-These are a--'
+p513
+I479972
+I485728
+tp514
+a(S"-These are a--I'm all better now."
+p515
+I483612
+I485728
+tp516
+a(S"I'm all better now.I helped."
+p517
+I483612
+I489125
+tp518
+a(S'I helped.This is probably for the best, you know?'
+p519
+I487612
+I493447
+tp520
+a(S'This is probably for the best, you know?Independence. Taking control of your life.'
+p521
+I491172
+I496852
+tp522
+a(S"Independence. Taking control of your life.The whole ''hat'' thing."
+p523
+I494292
+I498650
+tp524
+a(S"The whole ''hat'' thing.If you need anything, you can always come to Joey."
+p525
+I497092
+I503044
+tp526
+a(S"If you need anything, you can always come to Joey.Me and Chandler live across the hall. And he's away a lot."
+p527
+I498892
+I506443
+tp528
+a(S"Me and Chandler live across the hall. And he's away a lot.Joey, stop hitting on her! It's her wedding day."
+p529
+I503292
+I510726
+tp530
+a(S"Joey, stop hitting on her! It's her wedding day.What? Like there's a rule or something?"
+p531
+I508292
+I513532
+tp532
+a(S"What? Like there's a rule or something?I got it."
+p533
+I510972
+I517327
+tp534
+a(S"I got it.Please don't do that again. It's a horrible sound."
+p535
+I516212
+I521923
+tp536
+a(S"Please don't do that again. It's a horrible sound.It's Paul."
+p537
+I518692
+I523730
+tp538
+a(S"It's Paul.Oh, God. Is it 6:30? Buzz him in."
+p539
+I522172
+I527248
+tp540
+a(S"Oh, God. Is it 6:30? Buzz him in.-Who's Paul?"
+p541
+I523972
+I529926
+tp542
+a(S"-Who's Paul?Paul, the wine guy?"
+p543
+I527492
+I529926
+tp544
+a(S'Paul, the wine guy?Maybe.'
+p545
+I527492
+I530928
+tp546
+a(S"Maybe.Your ''not a real date,'' is with Paul, the wine guy?"
+p547
+I530132
+I534289
+tp548
+a(S"Your ''not a real date,'' is with Paul, the wine guy?He finally asked you out?"
+p549
+I531172
+I536409
+tp550
+a.
