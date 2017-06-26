@@ -1,6 +1,7 @@
 install
-    https://github.com/seatgeek/fuzzywuzzy
-    pip install fuzzywuzzy
+
+    - https://github.com/seatgeek/fuzzywuzzy
+    - pip install fuzzywuzzy
 
 1. smi_cleaning.py
     - input : .smi file
