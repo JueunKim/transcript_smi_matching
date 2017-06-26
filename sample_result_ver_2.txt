@@ -1,0 +1,392 @@
+ver_2.0 
+ ===============
+0
+transcript : There's nothing to tell! He's just some guy I work with!
+smi        :  There's nothing to tell. It's just some guy I work with.
+54012 57641
+score : 93
+===================
+1
+transcript : C'mon, you're going out with the guy! There's gotta be something wrong with him!
+smi        :  You're going out with a guy.There's gotta be something wrong with him.
+57892 62521
+score : 88
+===================
+2
+transcript : All right Joey, be nice. So does he have a hump? A hump and a hairpiece?
+smi        :  All right, Joey, be nice.So does he have a hump and a hair piece?
+62812 67532
+score : 92
+===================
+3
+transcript : Wait, does he eat chalk?
+smi        :  Wait. Does he eat chalk?
+69092 70366
+score : 92
+===================
+5
+transcript : Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex.
+smi        :  Relax. This is not even a date.It's just two people going out to dinner and not having sex.
+76652 82480
+score : 90
+===================
+6
+transcript : Sounds like a date to me.
+smi        :  Sounds like a date to me.
+83492 84971
+score : 100
+===================
+9
+transcript : Then I look down, and I realize there's a phone... there.
+smi        :  Then I look down and I realize there is a phone. . .
+96092 99721
+score : 90
+===================
+9
+transcript : Then I look down, and I realize there's a phone... there.
+smi        :  Then I look down and I realize there is a phone. . .. . .there.
+96092 102125
+score : 92
+===================
+11
+transcript : That's right.
+smi        :  That's right!
+104412 106004
+score : 92
+===================
+12
+transcript : Never had that dream.
+smi        :  I've had that dream.
+94132 95850
+score : 88
+===================
+14
+transcript : All of a sudden, the phone starts to ring. Now I don't know what to do, everybody starts looking at me.
+smi        :  All of a sudden, the phone starts to ring.I don't know what to do. Everybody's looking at me.
+108052 115290
+score : 92
+===================
+15
+transcript : And they weren't looking at you before?!
+smi        :  They weren't looking at you before?
+115532 117363
+score : 91
+===================
+18
+transcript : This guy says hello, I wanna kill myself.
+smi        :  This guy says, ''Hello,'' I wanna kill myself.
+139812 142531
+score : 92
+===================
+19
+transcript : Are you okay, sweetie?
+smi        :  You okay, sweetie?
+143292 144281
+score : 85
+===================
+20
+transcript : I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...
+smi        :  I feel like someone grabbed my small intestine, pulled it out of my mouth. . .-. . .and tied it around my neck.
+145332 152725
+score : 83
+===================
+21
+transcript : Cookie?
+smi        :  Cookie?
+150052 152725
+score : 100
+===================
+22
+transcript : Carol moved her stuff out today.
+smi        :  Carol moved out today.
+154772 156171
+score : 81
+===================
+24
+transcript : Let me get you some coffee.
+smi        :  -Let me get you some coffee.
+157212 159328
+score : 98
+===================
+24
+transcript : Let me get you some coffee.
+smi        :  -Let me get you some coffee.Thanks.
+157212 159328
+score : 87
+===================
+25
+transcript : Thanks.
+smi        :  Thanks.
+157212 159328
+score : 100
+===================
+27
+transcript : No, no don't! Stop cleansing my aura! No, just leave my aura alone, okay?
+smi        :  No, don't! Stop cleansing my aura.Just leave my aura alone, okay?
+163692 170447
+score : 91
+===================
+28
+transcript : Fine! Be murky!
+smi        :  Fine. Be murky.
+170692 172922
+score : 87
+===================
+30
+transcript : No you don't.
+smi        :  No, you don't.
+176492 177447
+score : 96
+===================
+31
+transcript : No I don't, to hell with her, she left me!
+smi        :  No, you don't.To hell with her. She left me!
+176492 179728
+score : 84
+===================
+32
+transcript : And you never knew she was a lesbian...
+smi        :  And you never knew she was a lesbian.
+180772 183127
+score : 97
+===================
+33
+transcript : No!! Okay?! Why does everyone keep fixating on that? She didn't know, how should I know?
+smi        :  Why does everyone keep fixating on that?She didn't know. How should I know?
+188812 195526
+score : 90
+===================
+34
+transcript : Sometimes I wish I was a lesbian...  Did I say that out loud?
+smi        :  Sometimes I wish I was a lesbian.Did I say that out loud?
+197372 203728
+score : 97
+===================
+35
+transcript : I told mom and dad last night, they seemed to take it pretty well.
+smi        :  I told Mom and Dad last night. They seemed to take it well.
+206212 209522
+score : 88
+===================
+37
+transcript : Sorry.
+smi        :  Sorry.
+219412 220731
+score : 100
+===================
+39
+transcript : Strip joint! C'mon, you're single! Have some hormones!
+smi        :  Strip joints!Come on, you're single. Have some hormones.
+229412 235922
+score : 91
+===================
+41
+transcript : And I just want a million dollars!
+smi        :  And I just want a million dollars!
+245852 247843
+score : 100
+===================
+41
+transcript : And I just want a million dollars!
+smi        :  And I just want a million dollars!Rachel?
+245852 253921
+score : 91
+===================
+42
+transcript : Rachel?!
+smi        :  Rachel?
+252932 253921
+score : 93
+===================
+44
+transcript : Can I get you some coffee?
+smi        :  -Can I get you some coffee?
+262452 265524
+score : 98
+===================
+44
+transcript : Can I get you some coffee?
+smi        :  -Can I get you some coffee?Decaf.
+262452 265524
+score : 88
+===================
+48
+transcript : So you wanna tell us now, or are we waiting for four wet bridesmaids?
+smi        :  You want to tell us now, or are we waiting for four wet bridesmaids?
+286012 290130
+score : 92
+===================
+48
+transcript : So you wanna tell us now, or are we waiting for four wet bridesmaids?
+smi        :  Sure!You want to tell us now, or are we waiting for four wet bridesmaids?
+275412 290130
+score : 90
+===================
+50
+transcript : Who wasn't invited to the wedding.
+smi        :  Who wasn't asked to the wedding.
+340132 341770
+score : 88
+===================
+51
+transcript : Ooh, I was kinda hoping that wouldn't be an issue...
+smi        :  I was kind of hoping that wouldn't be an issue.
+342092 344925
+score : 89
+===================
+52
+transcript : Now I'm guessing that he bought her the big pipe organ, and she's really not happy about it.
+smi        :  I guess he bought her the pipe organ. . .. . .and she's really not happy about it.
+360172 364926
+score : 84
+===================
+53
+transcript : Tuna or egg salad? Decide!
+smi        :  ''Tuna or egg salad?''''Decide! ''
+366412 368847
+score : 83
+===================
+54
+transcript : I'll have whatever Christine is having.
+smi        :  ''I'll have whatever Christine is having. ''
+370492 373723
+score : 94
+===================
+54
+transcript : I'll have whatever Christine is having.
+smi        :  ''Decide! ''''I'll have whatever Christine is having. ''
+367732 373723
+score : 82
+===================
+56
+transcript : If I let go of my hair, my head will fall off.
+smi        :  ''If I let go of my hair, my head will fall off. ''
+389252 393325
+score : 95
+===================
+57
+transcript : Ooh, she should not be wearing those pants.
+smi        :  She should not be wearing those pants.
+394772 397445
+score : 91
+===================
+58
+transcript : I say push her down the stairs.
+smi        :  I say push her down the stairs!
+398772 400763
+score : 97
+===================
+59
+transcript : Push her down the stairs! Push her down the stairs! Push her down the stairs!
+smi        :  I say push her down the stairs!Push her down the stairs! Push her down the stairs!
+398772 403606
+score : 94
+===================
+61
+transcript : You can see where he'd have trouble.
+smi        :  You can see where he'd have trouble.
+433012 435321
+score : 100
+===================
+62
+transcript : Look Daddy, it's my life. Well maybe I'll just stay here with Monica.
+smi        :  Look, Daddy, it's my life.Well, maybe I'll just stay here with Monica.
+437932 444324
+score : 98
+===================
+63
+transcript : Well, I guess we've established who's staying here with Monica...
+smi        :  I guess we've established she's staying with Monica.
+446372 449330
+score : 85
+===================
+64
+transcript : Well, maybe that's my decision. Well, maybe I don't need your money. Wait!! Wait, I said maybe!!
+smi        :  Well, maybe that's my decision.Well, maybe I don't need your money.
+450292 455728
+score : 82
+===================
+65
+transcript : Just breathe, breathe.. that's it. Just try to think of nice calm things...
+smi        :  Just breathe. Breathe, that's it.Just try to think of nice, calm things.
+465892 471121
+score : 93
+===================
+67
+transcript : I'm all better now.
+smi        :  I'm all better now.
+483612 485728
+score : 100
+===================
+67
+transcript : I'm all better now.
+smi        :  I'm all better now.I helped.
+483612 489125
+score : 81
+===================
+68
+transcript : I helped!
+smi        :  I helped.
+487612 489125
+score : 89
+===================
+70
+transcript : And hey, you need anything, you can always come to Joey. Me and Chandler live across the hall. And he's away a lot.
+smi        :  If you need anything, you can always come to Joey.Me and Chandler live across the hall. And he's away a lot.
+498892 506443
+score : 95
+===================
+71
+transcript : Joey, stop hitting on her! It's her wedding day!
+smi        :  Joey, stop hitting on her! It's her wedding day.
+508292 510726
+score : 98
+===================
+72
+transcript : What, like there's a rule or something?
+smi        :  What? Like there's a rule or something?
+510972 513532
+score : 95
+===================
+72
+transcript : What, like there's a rule or something?
+smi        :  What? Like there's a rule or something?I got it.
+510972 517327
+score : 85
+===================
+73
+transcript : Please don't do that again, it's a horrible sound.
+smi        :  Please don't do that again. It's a horrible sound.
+518692 521923
+score : 96
+===================
+73
+transcript : Please don't do that again, it's a horrible sound.
+smi        :  I got it.Please don't do that again. It's a horrible sound.
+516212 521923
+score : 88
+===================
+73
+transcript : Please don't do that again, it's a horrible sound.
+smi        :  Please don't do that again. It's a horrible sound.It's Paul.
+518692 523730
+score : 87
+===================
+75
+transcript : Oh God, is it 6:30? Buzz him in!
+smi        :  Oh, God. Is it 6:30? Buzz him in.
+523972 527248
+score : 89
+===================
+76
+transcript : Who's Paul?
+smi        :  -Who's Paul?
+527492 529926
+score : 96
+===================
+79
+transcript : He finally asked you out?
+smi        :  He finally asked you out?
+534532 536409
+score : 100
+===================
