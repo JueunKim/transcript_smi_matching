@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 # input : "smi_cleaning.txt"
 # output : data structure -[("smi", start_t,end_t),("smi", start_t, end_t)...]
-
-
 import re
 import pickle
 
